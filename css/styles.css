@@ -25,6 +25,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: alphapipe;
+    src: url(./alphapipe/BC\ Alphapipe\ L\ Regular.ttf) format("truetype");
+    font-style: normal;
+}
+
 html,
 body {
     margin: 0;
@@ -95,7 +101,7 @@ html {
 }
 
 .normal-text {
-    font-family: Montserrat;
+    font-family: alphapipe;
     color: #fff;
     color: #fff
 }

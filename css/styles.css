@@ -39,7 +39,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: linear-gradient( to left, #90278e, #90278e);
+    background-image: linear-gradient( to bottom, #90278e, #90278e);
 }
 
 .parent-center {
@@ -95,17 +95,18 @@ html {
 }
 
 .normal-text {
-    font-family: montserrat;
+    font-family: Montserrat;
     color: #fff;
     color: #fff
 }
 
 .contents {
-    margin: 8vw
+    margin: 4vw 8vw
+    /*Goes vertical then horizontal */
 }
 
 .content-margin {
-    margin: 2vw
+    margin: 0 4vw
 }
 
 .content div {
@@ -128,7 +129,8 @@ html {
 }
 
 .no-margin-top {
-    margin-top: 0
+    margin-top: 0;
+    margin-bottom: 0
 }
 
 .header {

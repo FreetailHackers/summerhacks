@@ -126,12 +126,13 @@ html {
 
 .content .question {
     font-weight: bolder;
-    margin-bottom: 5px
+    margin-bottom: 5px;
+    font-family: Montserrat;
 }
 
 .content .answer {
     font-weight: lighter;
-    margin: 5px 0 20px
+    margin: 5px 0 20px;
 }
 
 .no-margin-top {

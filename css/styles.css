@@ -19,6 +19,12 @@
     font-style: normal
 }
 
+@font-face {
+    font-family: pixaboy;
+    src: url(./pixaboy/pixaboy.ttf) format("truetype");
+    font-style: normal;
+}
+
 html,
 body {
     margin: 0;
@@ -33,7 +39,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: linear-gradient( to left, #c2329c, #c2329c);
+    background-image: linear-gradient( to left, #90278e, #90278e);
 }
 
 .parent-center {
@@ -58,13 +64,13 @@ html {
 }
 
 .title {
-    font-family: beba neue bold;
+    font-family: pixaboy;
     color: #fff;
     color: #fff
 }
 
 .heading {
-    font-family: beba neue;
+    font-family: pixaboy;
     color: #fff;
     color: #fff
 }
@@ -231,7 +237,7 @@ html {
 }
 
 #headDiv {
-    background-image: url(../assets/hackposter2.png);
+    background-image: url(../assets/bigbanner.png);
     width: 120%;
     align-content: center;
     background-repeat: no-repeat;

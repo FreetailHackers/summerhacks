@@ -227,7 +227,7 @@ html {
     }
     .four-items {
         width: 50%;
-        padding: 3vw 0
+        padding: 0 0
     }
     .content .answer {
         font-size: 3.5vw
@@ -246,12 +246,13 @@ html {
 }
 
 #headDiv {
-    background-image: url(../assets/bigbanner.png);
-    width: 120%;
+    /*background-image: url(../assets/bigbanner.png);*/
+    width: 100%;
     align-content: center;
     background-repeat: no-repeat;
     background-size: 100% auto;
     height: auto;
+    margin-bottom: 10vw;
 }
 
 #banner {

@@ -246,7 +246,7 @@ html {
 }
 
 #headDiv {
-    /*background-image: url(../assets/bigbanner.png);*/
+    background-image: url(../assets/bigbanner.png);
     width: 100%;
     align-content: center;
     background-repeat: no-repeat;

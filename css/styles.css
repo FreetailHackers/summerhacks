@@ -56,13 +56,6 @@ html {
     height: 200vw;
 }
 
-#registerButton {
-    text-align: center;
-    margin: 0 4vw 8vw;
-    max-height: 100px;
-    width: auto;
-}
-
 .parent-center {
     display: flex;
     align-items: center;

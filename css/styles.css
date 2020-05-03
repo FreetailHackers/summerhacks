@@ -48,11 +48,6 @@ html {
     background-color: #9F2C86;
 }
 
-#extension {
-    text-align: center;
-    background-image: url(../assets/water-add-on.png);
-}
-
 .parent-center {
     display: flex;
     align-items: center;

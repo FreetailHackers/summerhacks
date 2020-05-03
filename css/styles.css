@@ -46,7 +46,6 @@ html {
     -o-background-size: cover;
     background-size: cover;
     background-color: #9F2C86;
-    background-image: linear-gradient( to bottom, #9F2C86, #9F2C86);
 }
 
 #extension {

@@ -239,6 +239,10 @@ html {
         max-height: 50vw;
         width: auto;
     }
+    #actualButton {
+        width: 70vw;
+        height: auto;
+    }
 }
 
 #sponsors {

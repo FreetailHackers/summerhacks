@@ -45,7 +45,21 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: linear-gradient( to bottom, #90278e, #90278e);
+    background-image: linear-gradient( to bottom, #9F2C86, #9F2C86);
+}
+
+#extension {
+    text-align: center;
+    background-image: url(../assets/water-add-on.png);
+    width: 100vw;
+    height: 200vw;
+}
+
+#registerButton {
+    text-align: center;
+    margin: 0 4vw 8vw;
+    max-height: 100px;
+    width: auto;
 }
 
 .parent-center {
@@ -249,7 +263,7 @@ html {
 }
 
 #headDiv {
-    background-image: url(../assets/bigbanner.png);
+    background-image: url(../assets/bigbanner.gif);
     width: 100%;
     align-content: center;
     background-repeat: no-repeat;

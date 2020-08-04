@@ -163,6 +163,10 @@ strong {
     width: 100%
 }
 
+.sponsorLogo {
+    width: 100%;
+}
+
 #calendar {
     width: 80%;
     margin-left: 10%;
